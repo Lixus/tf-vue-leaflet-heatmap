@@ -14,7 +14,7 @@
   "dependencies": {
     "core-js": "^3.18.2",
     "leaflet": "^1.7.1",
-    "leaflet.heat": "git+https://github.com/Harvinator/Leaflet.heat.git#gh-pages",
+    "leaflet.heat": "git+https://github.com/Harvinator/Leaflet.heat.git#patch-1",
     "vue": "^2.6.14",
     "vue2-leaflet": "^2.7.1"
   },
